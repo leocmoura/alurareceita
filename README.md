@@ -1,2 +1,2 @@
-# aplica-o
+# aplicacao
 Alura Receita
